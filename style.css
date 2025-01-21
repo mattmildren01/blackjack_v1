@@ -1,0 +1,35 @@
+body {
+    background-image: url("velvet.jpeg");
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#container { 
+    background-color: rgba(0,255,0, 0.02);
+    height: 90%;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+p { 
+    color:white;
+}
+
+h3 {
+    color: tan;
+    font-size: 25px;
+}
+h1 {
+    color: chocolate;
+    font-size: 50px;
+}
+
+.butts {
+    background-color: bisque;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    border-radius: 10px;
+    border-color: black;
+    font-weight: bold;
+}
